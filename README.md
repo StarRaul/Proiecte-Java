@@ -1,3 +1,5 @@
-# Recunoastere faciala in Java
+# Proiecte Java
 ## *Proiect facultate*
-Proiect la Inteligenta Artificiala despre recunoastere faciala. Program lucrat in Notepad++ cu jdk25
+1) Proiect la Inteligenta Artificiala pentru recunoastere faciala
+2) Program de detectare a conicelor
+3) Support Vector Machine cu anumiti algoritmi
