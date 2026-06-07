@@ -1,0 +1,1 @@
+javac -classpath ".;svm;svm\lib\opencv-490.jar" svm\*.java svm\alg\*.java svm\face\*.java svm\gui\*.java svm\io\*.java svm\model\*.java svm\tools\*.java svm\webcam\*.java >erori.txt 2>&1

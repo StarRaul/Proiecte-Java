@@ -1,0 +1,1 @@
+java -Xmx1024m -classpath ".;svm;svm\lib\opencv-490.jar" -Djava.library.path="svm\lib" svm.SVM >log.txt 2>&1
