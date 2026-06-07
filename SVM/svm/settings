@@ -1,0 +1,17 @@
+background_color=51 59 55
+axis=1
+axis_min=-100000
+axis_max=100000
+axis_color=255 255 255
+gradations=1
+axis_gradations=10
+grid=1
+grid_size=50
+grid_color=150 150 150
+point_radius=3
+class0_point_color=15 255 80
+class1_point_color=220 20 60
+line_color=0 255 240
+string_color=255 255 255
+percentage=80
+learning_rate=1000.0
